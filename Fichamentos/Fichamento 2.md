@@ -1,12 +1,12 @@
-SLACC: simion-based language agnostic code clones
+# SLACC: simion-based language agnostic code clones
 
 George Mathew, Chris Parnin, and Kathryn T Stolee. 2020\. SLACC: simion-based language agnostic code clones. In Proceedings of the ACM/IEEE 42nd International Conference on Software Engineering (ICSE '20). Association for Computing Machinery, New York, NY, USA, 210–221. [https://doi.org/10.1145/3377811.3380407](https://doi.org/10.1145/3377811.3380407) 
 
-1. **Fichamento do Conteúdo**
+## 1. **Fichamento do Conteúdo**
 
 O artigo apresenta a técnica SLACC (*Simion-based Language Agnostic Code Clones*), uma abordagem inovadora para a detecção de *clones* de código que opera entre diferentes linguagens de programação. O contexto em que esta pesquisa se insere é a necessidade crescente de ferramentas que consigam identificar semelhanças de código em sistemas que utilizam múltiplas linguagens, um cenário comum no desenvolvimento moderno de *software*. O problema abordado é a limitação das ferramentas tradicionais de *clone detection*, que geralmente operam apenas em uma única linguagem e não se adaptam a sistemas poliglotas. Para resolver essa questão, SLACC utiliza uma análise dinâmica que compara o comportamento de entrada e saída de fragmentos de código, denominados *simions*, permitindo a identificação de *clones* sem a necessidade de uma representação comum entre as linguagens analisadas. Os resultados obtidos com testes entre códigos escritos em Java e Python mostram que SLACC consegue detectar seis vezes mais grupos de *clones* com uma precisão superior em relação ao HitoshiIO, uma ferramenta de detecção de *clones* anterior. Este avanço não apenas melhora a detecção de *clones* mas também abre caminho para futuras aplicações em ferramentas de migração de linguagens e no aprendizado de novas linguagens de programação.
 
-1. **Fichamento Bibliográfico**
+## 2. **Fichamento Bibliográfico**
 
 1\. *Semantic code cloning* (clonagem de código semântico) refere-se à identificação de trechos de código que executam funções semelhantes, mesmo que estejam escritos em linguagens diferentes (página 1).
 
@@ -20,7 +20,7 @@ O artigo apresenta a técnica SLACC (*Simion-based Language Agnostic Code Clones
 
 6\. *Input generation strategies* (estratégias de geração de entrada) envolvem a criação de dados de teste para executar funções analisadas, utilizando técnicas inspiradas em testes de caixa cinza, aumentando assim as chances de detectar comportamentos equivalentes (página 3).
 
-**3\. Fichamento de Citações**
+## **3\. Fichamento de Citações**
 
 1\. *"Successful cross-language clone detection could enable researchers and developers to create robust language migration tools, facilitate learning additional programming languages once one is mastered, and promote reuse of code snippets over a broader codebase."*
 

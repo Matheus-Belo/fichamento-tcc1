@@ -8,17 +8,17 @@ O artigo analisa a eficácia de três ferramentas de análise de código estáti
 
 ## 2\. Fichamento Bibliográfico
 
-1\. Static Code Analysis Tools (Ferramentas de Análise de Código Estático) referem-se a softwares que ajudam na identificação de erros e vulnerabilidades no código-fonte de programas, auxiliando desenvolvedores a melhorar a qualidade e segurança do software (página 1).
+1\. *Static Code Analysis Tools* (Ferramentas de Análise de Código Estático) referem-se a softwares que ajudam na identificação de erros e vulnerabilidades no código-fonte de programas, auxiliando desenvolvedores a melhorar a qualidade e segurança do software (página 1).
 
-2\. Fortify SCA (Fortify SCA) é uma ferramenta comercial de análise estática que utiliza uma abordagem heurística não baseada em anotações, permitindo fácil operação sem a necessidade de um conhecimento profundo da ferramenta por parte do usuário (página 2).
+2\. *Fortify SCA* (Fortify SCA) é uma ferramenta comercial de análise estática que utiliza uma abordagem heurística não baseada em anotações, permitindo fácil operação sem a necessidade de um conhecimento profundo da ferramenta por parte do usuário (página 2).
 
-3\. Splint (Splint) é uma ferramenta de análise estática que emprega um sistema de anotações, voltada para a identificação de vulnerabilidades e erros em programas C. Seu uso adequado depende da capacidade do desenvolvedor em inserir anotações de forma eficaz (página 3).
+3\. *Splint* (Splint) é uma ferramenta de análise estática que emprega um sistema de anotações, voltada para a identificação de vulnerabilidades e erros em programas C. Seu uso adequado depende da capacidade do desenvolvedor em inserir anotações de forma eficaz (página 3).
 
-4\. Frama-C (Frama-C) é uma ferramenta de análise estática também baseada em anotações, mas com um foco em análise correta. Ela exige um nível técnico mais elevado para a interpretação de seus resultados, oferecendo análises mais profundas e detalhadas (página 2).
+4\. *Frama-C* (Frama-C) é uma ferramenta de análise estática também baseada em anotações, mas com um foco em análise correta. Ela exige um nível técnico mais elevado para a interpretação de seus resultados, oferecendo análises mais profundas e detalhadas (página 2).
 
-5\. Annotations (Anotações) são instruções inseridas pelo desenvolvedor no código, que ajudam as ferramentas de análise a realizar verificações mais precisas, mas que requerem um investimento significativo de tempo e conhecimento para serem implementadas corretamente (página 7).
+5\. *Annotations* (Anotações) são instruções inseridas pelo desenvolvedor no código, que ajudam as ferramentas de análise a realizar verificações mais precisas, mas que requerem um investimento significativo de tempo e conhecimento para serem implementadas corretamente (página 7).
 
-6\. Error Detection (Detecção de Erros) e a eficácia das ferramentas de análise estática dependem não só da qualidade do software, mas também da habilidade do auditor em interpretar e aplicar corretamente as informações fornecidas pelas ferramentas (página 6).
+6\. *Error Detection* (Detecção de Erros) e a eficácia das ferramentas de análise estática dependem não só da qualidade do software, mas também da habilidade do auditor em interpretar e aplicar corretamente as informações fornecidas pelas ferramentas (página 6).
 
 ## 3\. Fichamento de Citações
 

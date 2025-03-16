@@ -32,3 +32,5 @@ https://bib.pucminas.br/pergamumweb/vinculos/000020/0000208a.pdf
 * Mehrpour, S., LaToza, T.D. Can static analysis tools find more defects?. Empir Software Eng 28, 5 (2023). https://doi.org/10.1007/s10664-022-10232-4
 
 * M. Alqaradaghi and T. Kozsik, "Comprehensive Evaluation of Static Analysis Tools for Their Performance in Finding Vulnerabilities in Java Code," in IEEE Access, vol. 12, pp. 55824-55842, 2024, doi: 10.1109/ACCESS.2024.3389955. - https://ieeexplore.ieee.org/abstract/document/10500698
+
+* SILVA, Eryck; CACEFFO, Ricardo; AZEVEDO, Rodolfo. Análise Estática de Código em Conjunto com Autograders. In: LABORATÓRIO DE IDEIAS - SIMPÓSIO BRASILEIRO DE EDUCAÇÃO EM COMPUTAÇÃO (EDUCOMP), 1. , 2021, On-line. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2021 . p. 25-26. DOI: https://doi.org/10.5753/educomp_estendido.2021.14858.
